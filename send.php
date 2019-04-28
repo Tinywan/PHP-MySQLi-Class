@@ -3,7 +3,7 @@
 require_once './vendor/autoload.php';
 
 $db = new MysqliDb ([
-    'host' => '120.77.41.244',
+    'host' => '127.0.0.1',
     'username' => 'test',
     'password' => 'test',
     'db' => 'p2p',
